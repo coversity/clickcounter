@@ -1,0 +1,13 @@
+Privacy Policy
+Click Counter
+Last Updated Mar 30, 2024
+
+This is the Privacy Policy of Click Counter. This Privacy Policy describes all the data which Click Counter uses (does not collect or share).
+
+Data collection / storage
+
+Click Counter does not collect or share any user information outside of the app itself. All data stored by Click Counter is done locally on your device.
+
+Data retention
+
+All data (which is stored on your device) is cleared when you clear the cache/storage of the application.
