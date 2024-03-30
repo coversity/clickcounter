@@ -1,4 +1,4 @@
-package c.d.wflsuggest_flutter;
+package c.d.click_counter_flutter;
 
 import io.flutter.embedding.android.FlutterActivity;
 

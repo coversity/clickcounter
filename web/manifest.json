@@ -1,6 +1,6 @@
 {
-    "name": "wflsuggest_flutter",
-    "short_name": "wflsuggest_flutter",
+    "name": "click_counter_flutter",
+    "short_name": "click_counter_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
